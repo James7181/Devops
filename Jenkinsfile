@@ -11,7 +11,7 @@ pipeline {
 
         stage('stage2') {
           steps {
-            sh '''#!/bin/bash/
+            sh '''
 
 touch blueocean1'''
           }
